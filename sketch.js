@@ -9,7 +9,7 @@ var testBottleImage;
 function preload(){
   sadDog=loadImage("Images/Dog.png");
   happyDog=loadImage("Images/happy dog.png");
-  testBottleImage = loadImage("images/milk.png");
+  testBottleImage = loadImage("Images/Milk.png");
 }
 
 function setup() {
